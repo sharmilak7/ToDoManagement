@@ -1,13 +1,13 @@
-package com.project.ToDoManagement;
+package com.project.todomanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ToDoManagementGitTestApplication {
+public class ToDoManagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ToDoManagementGitTestApplication.class, args);
+		SpringApplication.run(ToDoManagementApplication.class, args);
 	}
 
 }

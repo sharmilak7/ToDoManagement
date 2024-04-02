@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ToDoManagement
+  datasource:
+    url: jdbc:mysql://localhost:3306/todomangement?useSSL=false
+    username: root
+    password: root
+server:
+  port: 6600
